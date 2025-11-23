@@ -1,0 +1,9 @@
+{
+  "name": "OmniTool Suite",
+  "description": "A comprehensive utility application featuring AI-powered translation and math generation, alongside essential tools like calculators, notes, and converters.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
